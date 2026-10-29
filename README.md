@@ -1,16 +1,14 @@
-## Hi there 👋
+#Anais LOPES [pronounced Ana-i-sse]
+** Engineering student @ENSTA**
+** Specializing in Observations systems and artificial intelligence**
 
-<!--
-**anais-lopes/anais-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Interested in:
+AI - Data Science - Signal processing - GNSS - Robotics
 
-Here are some ideas to get you started:
+###Languages, tools and frameworks:
+Python - C - C++ - SQL - ROS 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Selected projects:
+-> GNSS
+-> Whale sound classification
+->
