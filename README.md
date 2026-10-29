@@ -1,4 +1,4 @@
-# Anais LOPES [pronounced Ana-i-sse]
+# Anais LOPES
 **Engineering student @ENSTA**
 **Specializing in Observations systems and artificial intelligence**
 
@@ -10,5 +10,5 @@ Python - C - C++ - SQL - ROS 2
 
 ### Selected projects:
 -> GNSS
--> Whale sound classification
+-> 
 ->
